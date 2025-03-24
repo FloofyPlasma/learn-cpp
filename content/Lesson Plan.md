@@ -8,8 +8,8 @@ tags:
 - [[Week 1/Topics/1|Topics]]: History, features, similarities and differences from other languages, compilation process, basic tools needed.
 - [[Week 1/Exercises/1|Exercises]]: Write a simple "Hello, World!" program, compile and run it using Visual Studio.
 ##### Day 2: Syntax and Variables
-- Topics: Basic syntax, variables, data types (integers, floats, chars, booleans), variable scope.
-- Exercises: Declare and manipulate variables of different types, explore scope and lifetime.
+- [[Week 1/Topics/2|Topics]]: Basic syntax, variables, data types (integers, floats, chars, booleans), variable scope.
+- [[Week 1/Exercises/2|Exercises]]: Declare and manipulate variables of different types, explore scope and lifetime.
 ##### Day 3: Control Structures
 - Topics: Conditional statements (if, else), switch-case, nested conditions.
 - Exercises: Implement a decision-making program, create a simple calculator using switch-case.
