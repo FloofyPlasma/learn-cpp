@@ -5,8 +5,8 @@ tags:
 ---
 # Week 1: Introduction to C++ and Basics
 ##### Day 1: Overview of C++
-- [[Lesson 1/Topics/1|Topics]]: History, features, similarities and differences from other languages, compilation process, basic tools needed.
-- [[Lesson 1/Exercises/1|Exercises]]: Write a simple "Hello, World!" program, compile and run it using Visual Studio.
+- [[Week 1/Topics/1|Topics]]: History, features, similarities and differences from other languages, compilation process, basic tools needed.
+- [[Week 1/Exercises/1|Exercises]]: Write a simple "Hello, World!" program, compile and run it using Visual Studio.
 ##### Day 2: Syntax and Variables
 - Topics: Basic syntax, variables, data types (integers, floats, chars, booleans), variable scope.
 - Exercises: Declare and manipulate variables of different types, explore scope and lifetime.
