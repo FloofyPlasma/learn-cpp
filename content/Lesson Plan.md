@@ -11,8 +11,8 @@ tags:
 - [[Week 1/Topics/2|Topics]]: Basic syntax, variables, data types (integers, floats, chars, booleans), variable scope.
 - [[Week 1/Exercises/2|Exercises]]: Declare and manipulate variables of different types, explore scope and lifetime.
 ##### Day 3: Control Structures
-- Topics: Conditional statements (if, else), switch-case, nested conditions.
-- Exercises: Implement a decision-making program, create a simple calculator using switch-case.
+- [[Week 1/Topics/3|Topics]]: Conditional statements (if, else), switch-case, nested conditions.
+- [[Week 1/Exercises/3|Exercises]]: Implement a decision-making program, create a simple calculator using switch-case.
 ##### Day 4: Loops
 - Topics: For loops, while loops, nested loops.
 - Exercises: Practice looping mechanisms, create a multiplication table generator.
